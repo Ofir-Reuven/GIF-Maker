@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <ProjectGuid>{d1dd0d52-c9b2-44ca-914e-3d03683837c6}</ProjectGuid>
-    <RootNamespace>Project_OfirReuven</RootNamespace>
+    <RootNamespace>GIFMaker</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
