@@ -1,6 +1,5 @@
 # GIF-Maker
 GIF maker based on Magshimim program's project.
-GIF Maker is made as a
 ## Requirements
 GIF Maker requires <a href="https://sourceforge.net/projects/opencvlibrary/files/opencv-win/3.4.0/opencv-3.4.0-vc14_vc15.exe/download">OpenCV</a>
 installed in C:\ to run. You can follow the instructions specified in <a href="https://www.youtube.com/watch?v=z8xEOdtu58Y">this video </a>
